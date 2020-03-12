@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ZoneToGKN GUID="08a446da-d2ea-47cc-b8d4-63f20f4afc7d" NameSoftware="ТехноКад-Экспресс" VersionSoftware="2.19.41211.1" xmlns="urn://x-artefacts-rosreestr-ru/incoming/zone-to-gkn/5.0.8" xmlns:loc3="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-input/6.0.1" xmlns:zone2="urn://x-artefacts-rosreestr-ru/commons/complex-types/zone/4.2.2" xmlns:gov3="urn://x-artefacts-rosreestr-ru/commons/complex-types/governance/5.0.1" xmlns:fl3="urn://x-artefacts-rosreestr-ru/commons/complex-types/person/5.0.2" xmlns:fio="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1" xmlns:doci2="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-info/5.0.1" xmlns:dcl2="urn://x-artefacts-rosreestr-ru/commons/complex-types/sender/5.0.1">
+  <!---->
+  <Title>
+    <doci2:CodeDocument>558221040000</doci2:CodeDocument>
+    <doci2:Name>ZoneToGKN_08a446da-d2ea-47cc-b8d4-63f20f4afc7d</doci2:Name>
+    <doci2:Number>б/н</doci2:Number>
+    <doci2:Date>2019-12-13</doci2:Date>
+    <doci2:IssueOrgan>-</doci2:IssueOrgan>
+  </Title>
+  <Declarant>
+    <dcl2:Governance>
+      <gov3:Name>Департамент природных ресурсов и охраны окружающей среды Томской области</gov3:Name>
+      <gov3:GovernanceCode>007001001001</gov3:GovernanceCode>
+    </dcl2:Governance>
+    <dcl2:Agent>
+      <fio:FamilyName>Кривов</fio:FamilyName>
+      <fio:FirstName>Максим</fio:FirstName>
+      <fio:Patronymic>Александрович</fio:Patronymic>
+      <fl3:Document>
+        <fl3:CodeDocument>008001001000</fl3:CodeDocument>
+        <fl3:Series>0</fl3:Series>
+        <fl3:Number>0</fl3:Number>
+        <fl3:Date>2019-06-25</fl3:Date>
+        <fl3:IssueOrgan>0</fl3:IssueOrgan>
+      </fl3:Document>
+      <dcl2:Appointment>и.о. начальника Департамента</dcl2:Appointment>
+    </dcl2:Agent>
+  </Declarant>
+  <Documents>
+    <Document>
+      <doci2:CodeDocument>558221000000</doci2:CodeDocument>
+      <doci2:Name>-</doci2:Name>
+      <doci2:Series>-</doci2:Series>
+      <doci2:Number>-</doci2:Number>
+      <doci2:Date>2019-12-13</doci2:Date>
+      <doci2:IssueOrgan>-</doci2:IssueOrgan>
+      <doci2:AppliedFile Kind="01" Name="ac33ae64-1312-4e4c-b8dc-b68390164256\решение.pdf" />
+    </Document>
+  </Documents>
+  <NewZones>
+    <Zone>
+      <zone2:CadastralDistrict>70:06</zone2:CadastralDistrict>
+      <zone2:CodeZone>218020000000</zone2:CodeZone>
+      <zone2:CodeZoneDoc>Зона затопления 1% обеспеченности д.Казальцево</zone2:CodeZoneDoc>
+      <zone2:Locations>
+        <zone2:Location>
+          <loc3:OKATO>69224000000</loc3:OKATO>
+          <loc3:KLADR>7000700000000</loc3:KLADR>
+          <loc3:Region>70</loc3:Region>
+          <loc3:District Name="Каргасокский" Type="р-н" />
+        </zone2:Location>
+      </zone2:Locations>
+      <SpecialZone>
+        <zone2:ContentRestrictions>Согласно пункту 6 статьи 67.1 Водного Кодекса РФ в границах зон затопления, подтопления запрещается: 1) размещение новых населенных пунктов и строительство объектов капитального строительства без обеспечения инженерной защиты таких населенных пунктов и объектов от затопления, подтопления; 2) использование сточных вод в целях регулирования плодородия почв;3) размещение кладбищ, скотомогильников, объектов размещения отходов производства и потребления, химических, взрывчатых, токсичных, отравляющих и ядовитых веществ, пунктов хранения и захоронения радиоактивных отходов; 4) осуществление авиационных мер по борьбе с вредными организмами. Согласно пункту 6 статьи 67.1 Водного Кодекса РФ в границах зон затопления, подтопления запрещается: 1) размещение новых населенных пунктов и строительство объектов капитального строительства без обеспечения инженерной защиты таких населенных пунктов и объектов от затопления, подтопления; 2) использование сточных вод в целях регулирования плодородия почв; 3) размещение кладбищ, скотомогильников, объектов размещения отходов производства и потребления, химических, взрывчатых, токсичных, отравляющих и ядовитых веществ, пунктов хранения и захоронения радиоактивных отходов; 4) осуществление авиационных мер по борьбе с вредными организмами.</zone2:ContentRestrictions>
+        <zone2:ProtectedObject>Зона затопления 1% обеспеченности д.Казальцево</zone2:ProtectedObject>
+        <Territory>
+          <doci2:CodeDocument>558273000000</doci2:CodeDocument>
+          <doci2:Name>Графическое описание местоположения границ населенных пунктов, территориальных зон, особо охраняемых природных территорий, зон с особыми условиями использования территории, текстовое описание местоположения границ населенных пунктов, территориальных зон</doci2:Name>
+          <doci2:Number>1</doci2:Number>
+          <doci2:Date>2019-12-13</doci2:Date>
+          <doci2:IssueOrgan>Акционерное общество «Томское землеустроительное проектно-изыскательское предприятие» (АО «Томскгипрозем»), Бояркина Елена Владимировна</doci2:IssueOrgan>
+          <doci2:AppliedFile Kind="02" GUID="0006cf05-57f8-45e2-abb4-b858c58fb6e3" Name="TerritoryToGKN_0006cf05-57f8-45e2-abb4-b858c58fb6e3.xml" />
+        </Territory>
+      </SpecialZone>
+    </Zone>
+  </NewZones>
+</ZoneToGKN>
